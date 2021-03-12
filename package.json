@@ -36,7 +36,7 @@
     "prop-types": "^15.5.9",
     "query-string": "^4.3.4",
     "react": "^15.5.4",
-    "react-dev-utils": "^3.0.2",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^15.5.4",
     "react-error-overlay": "^1.0.9",
     "react-router": "4.1.1",
